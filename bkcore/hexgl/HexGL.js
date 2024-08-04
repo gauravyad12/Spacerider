@@ -267,7 +267,7 @@ bkcore.hexgl.HexGL.prototype.displayScore = function(f, l)
 	sf != undefined && (sf.href='http://www.facebook.com/sharer.php?s=100'
 		+'&p[title]='+encodeURIComponent('I just scored '+dt.innerHTML+' in '+'Cityscape ('+d+') on DarkDev!')
 		+'&p[summary]='+encodeURIComponent('Darkdev Spacerider is a futuristic racing game built by Gaurav kumar yadav(Darkdev) using HTML5, Javascript and WebGL. Come challenge your friends on this fast-paced 3D game!')
-		+'&p[url]='+encodeURIComponent('http://github.com/gauravyad12/')
+		+'&p[url]='+encodeURIComponent('http://hexgl.bkcore.com')
 		+'&p[images][0]='+encodeURIComponent('http://hexgl.bkcore.com/image.png'));
 
 	bkcore.hexgl.Ladder.displayLadder('finish-ladder', t, d, 8);
